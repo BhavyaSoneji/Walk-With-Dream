@@ -29,6 +29,14 @@ A responsive static landing page for a fictional sneaker store built with plain 
 - Contact form (can be connected to Formspree or Netlify Forms)
 - Optimized assets (recommendation: use WebP & lazy loading)
 
+## Screenshots
+- ![Home Page](screenshots/home-desktop.png).
+- ![About Page](screenshots/about-page.png).
+- ![Contact Page](screenshots/contact-page.png).
+- ![Services Page](screenshots/services-page.png).
+- ![Top Brands](screenshots/top-brands.png).
+
+
 ## How to run locally
 1. Clone the repo:
    ```bash
