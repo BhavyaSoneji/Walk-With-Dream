@@ -1,6 +1,9 @@
 # Walk-With-Dream
 # walk-with-dream (Sneaker Store — Landing Page)
 
+## Demo
+**Live Demo:** https://bhavyasoneji.github.io/Walk-With-Dream/
+
 ![HTML badge](https://img.shields.io/badge/HTML-5-orange) ![CSS badge](https://img.shields.io/badge/CSS-3-blue) ![Pages](https://img.shields.io/badge/Hosting-GitHub%20Pages-blueviolet)
 
 A responsive static landing page for a fictional sneaker store built with plain HTML & CSS. Features: hero section, brand grid, services, contact form, and responsive layout.
